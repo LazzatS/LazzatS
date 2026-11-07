@@ -3,14 +3,7 @@
 ### Lazzat Seiilova
 iOS engineer · Apple Authorized Trainer
 
-<br>
-
-`● NOW BUILDING`
-
-**Chess App**
-An iOS app that brings admins, coaches, parents and students into one place.
-
-*one move at a time*
+<img src="assets/now-building.svg" alt="Now building: Chess App, an iOS app that brings admins, coaches, parents and students into one place." width="440">
 
 <br clear="left">
 
